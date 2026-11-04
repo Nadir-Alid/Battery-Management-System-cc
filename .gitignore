@@ -1,0 +1,23 @@
+
+# Altium temporary files and backups
+**/History/
+**/Project Logs for */
+**/__Previews/
+**/*.PrjPcbStructure
+**/*.PrjPcbLocal
+**/*.PrjPcbLocalHistory
+**/*.SchDocPreview
+**/*.PcbDocPreview
+
+# Temporary files
+**/*.bak
+**/*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Firmware build artifacts
+**/.cache/
+**/*.idx
+**/.vscode/ipch/
