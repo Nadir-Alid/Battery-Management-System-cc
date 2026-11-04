@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "type": "cmake",
+            "label": "Build STM32 firmware",
+            "command": "build",
+            "targets": ["all"],
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Build the complete STM32 firmware using the selected CMake preset."
+        }
+    ],
+    "version": "2.0.0"
+}

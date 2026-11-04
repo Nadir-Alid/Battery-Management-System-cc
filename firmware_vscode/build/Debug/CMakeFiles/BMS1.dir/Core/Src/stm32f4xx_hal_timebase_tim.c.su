@@ -1,0 +1,4 @@
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/Core/Src/stm32f4xx_hal_timebase_tim.c:5:19:HAL_InitTick	48	static
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/Core/Src/stm32f4xx_hal_timebase_tim.c:31:6:TIM2_IRQHandler	8	static
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/Core/Src/stm32f4xx_hal_timebase_tim.c:39:6:HAL_SuspendTick	4	static
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/Core/Src/stm32f4xx_hal_timebase_tim.c:40:6:HAL_ResumeTick	4	static

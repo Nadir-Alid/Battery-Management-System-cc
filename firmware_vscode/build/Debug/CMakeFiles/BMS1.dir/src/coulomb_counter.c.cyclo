@@ -1,0 +1,5 @@
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/coulomb_counter.c:18:14:Estimate_NMC_SOC_From_Voltage	6
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/coulomb_counter.c:39:14:Get_Dynamic_Invisible_Load_mA	6
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/coulomb_counter.c:58:6:CC_Init	2
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/coulomb_counter.c:77:13:CC_Update	27
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/coulomb_counter.c:194:13:CC_Reset	4

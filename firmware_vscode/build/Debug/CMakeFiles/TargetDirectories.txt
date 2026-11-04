@@ -1,0 +1,3 @@
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/build/Debug/CMakeFiles/BMS1.dir
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/build/Debug/CMakeFiles/rebuild_cache.dir

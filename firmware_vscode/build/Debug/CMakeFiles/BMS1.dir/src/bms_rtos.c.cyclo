@@ -1,0 +1,13 @@
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:34:6:BmsSnapshotUsable	4
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:40:6:BmsTakeSnapshot	3
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:45:6:BmsSubmitCommand	3
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:56:6:BmsTakeCommandResult	3
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:61:13:Publish	2
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:67:20:ReadBattery	9
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:112:20:ExecuteCommand	8
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:126:13:BatteryTask	13
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:182:6:BmsRtosStart	6
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:201:6:vApplicationGetIdleTaskMemory	1
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:211:6:BmsRtosAssert	1
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:219:6:vApplicationStackOverflowHook	1
+C:/Users/ldnad/OneDrive/Documents/Multi-chemistry-BMS-coulomb counting/BMS1_vscode/BMS1/src/bms_rtos.c:225:6:vApplicationMallocFailedHook	1
